@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "appium": "^1.22.3"
+    "selendroid": "^1.0.1"
   }
 }
